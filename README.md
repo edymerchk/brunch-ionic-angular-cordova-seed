@@ -18,16 +18,17 @@ Getting started
 * To get it started with PhoneGap visit http://phonegap.com/install/
 
 
-Contributing
-------------
+## Contributing
 
-If you make improvements to this application, please share with others.
+1. Fork it
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create new Pull Request
 
--   Fork the project on GitHub.
--   Make your feature addition or bug fix.
--   Commit with Git.
--   Send the author a pull request.
 
+## Author
+This was written by [Luis Edimerchk Laverde](http://twitter.com/edymerchk).
 
 
 License
