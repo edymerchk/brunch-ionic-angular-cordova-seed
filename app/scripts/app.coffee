@@ -11,6 +11,12 @@ App.config ($stateProvider, $urlRouterProvider) ->
     views:
       "home-tab":
         templateUrl: "/home.html"
+  ).state("tab.vendors",
+    url: "/vendors"
+    views:
+      "vendors-tab":
+        templateUrl: "/vendors.html",
+        controller: "VendorsCtrl"
   ).state("tab.about",
     url: "/about"
     views:
