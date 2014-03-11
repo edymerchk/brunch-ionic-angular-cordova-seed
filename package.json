@@ -1,0 +1,35 @@
+{
+  "author": "Luis Edimerchk",
+  "name": "brunch-ionic-angular-cordova-seed",
+  "description": "PhoneGap template with angularJs, ionic and brunch.io",
+  "version": "0.0.1",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edymerchk/brunch-ionic-angular-cordova-seed"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  },
+  "scripts": {
+    "start": "brunch watch --server",
+    "test": "brunch test"
+  },
+  "dependencies": {
+    "javascript-brunch": ">= 1.0 < 1.7",
+    "coffee-script-brunch": ">= 1.0 < 1.7",
+
+    "uglify-js-brunch": ">= 1.0 < 1.7",
+    "clean-css-brunch": ">= 1.0 < 1.7",
+    "coffeelint-brunch": "~1.5.0",
+    "groundskeeper-brunch": "0.0.3",
+
+    "stylus-brunch": ">= 1.0 < 1.8",
+    "css-brunch": ">= 1.0 < 1.7"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "intern": "~1.2.1"
+  }
+}
