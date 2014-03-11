@@ -37,3 +37,7 @@ License
 Distributed under MIT license.
 
 Enjoy!
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/edymerchk/brunch-ionic-angular-cordova-seed/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
